@@ -1,9 +1,9 @@
-# AUR-React
+# React
 
 **React-series projects / experiments by Abinash**
 
 ## Description  
-AUR-React is a collection of small React (and Vite + JS/TS/HTML/CSS where appropriate) projects exploring the fundamentals of React and related frontend web development.  
+Practice-React is a collection of small React (and Vite + JS/TS/HTML/CSS where appropriate) projects exploring the fundamentals of React and related frontend web development.  
 The repo contains several standalone demo apps (counter, password generator, currency converter, etc.) — great for learning, experimenting, and building React intuition.
 
 ## Table of Contents  
