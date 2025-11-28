@@ -3,7 +3,7 @@
 **React-series projects / experiments by Abinash**
 
 ## Description  
-AUR-React is a collection of small React (and Vite + vanilla JS/TS/HTML/CSS where appropriate) projects exploring the fundamentals of React and related frontend web development.  
+AUR-React is a collection of small React (and Vite + JS/TS/HTML/CSS where appropriate) projects exploring the fundamentals of React and related frontend web development.  
 The repo contains several standalone demo apps (counter, password generator, currency converter, etc.) — great for learning, experimenting, and building React intuition.
 
 ## Table of Contents  
@@ -62,12 +62,6 @@ Repeat for other demos by navigating into their folders and running the same com
 - Basic React starter (with manual setup / Vite + React) — good reference for new projects  
 
 *(You may insert screenshots or GIFs here to show the UI in action for better clarity.)*
-
-## Future Plans / TODOs  
-- Add more demo apps (e.g. To-Do list, Theme switcher, Form validations)  
-- Migrate some demos to TypeScript for better type safety  
-- Add testing (unit / integration) to demos  
-- Add README or documentation per demo explaining learning goals & structure  
 
 ## Contributing  
 Feel free to fork this repo, add your own demo, fix bugs or improve existing ones.  
